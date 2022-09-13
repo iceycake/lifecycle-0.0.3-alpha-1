@@ -12,7 +12,7 @@ environment:
 services:
   - name: 'lifecycle-0.0.3-alpha-1'
     github:
-      repository: 'lifecycle-0.0.3-alpha-1'
+      repository: 'iceycake/lifecycle-0.0.3-alpha-1'
       branchName: 'main'
       docker:
         defaultTag: 'main'
