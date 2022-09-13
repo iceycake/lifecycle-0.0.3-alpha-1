@@ -10,7 +10,7 @@ environment:
       branch: 'main'
 
 services:
-  - name: 'lifecycle-0.3.3-alpha-1'
+  - name: 'lifecycle-0.0.3-alpha-1'
     github:
       repository: 'lifecycle-0.3.3-alpha-1'
       branchName: 'main'
